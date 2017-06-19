@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <list>
+        <logged>true</logged>
+        <name>kamil</name>
+        <password>pass2</password>
+        <role>admin</role>
+        <strefa>0</strefa>
+    </list>
+    <list>
+        <logged>false</logged>
+        <name>kamil2</name>
+        <password>pass2</password>
+        <role>normal</role>
+        <strefa>2</strefa>
+    </list>
+</users>

@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Glowny">
+    <output-path>$PROJECT_DIR$/out/artifacts/Glowny.war</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Glowny/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Glowny" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Downloads/javax.jms.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/cdi-api.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/javax-inject.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../MyServlet.zip" />
+          <element id="file-copy" path="$PROJECT_DIR$/../untitled1.zip" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/multirun.jar" />
+          <element id="file-copy" path="C:/Program Files/Java/libs/jstl-1.2.jar" />
+          <element id="library" level="project" name="Jersey-2.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

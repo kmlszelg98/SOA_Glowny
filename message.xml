@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <msg>
+        <msg>Samochod przyjechal  ID: 1 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Na pewno ktos nie zaplacil, sprawdz:  1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod odjechal  ID: 1 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod przyjechal  ID: 1 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Na pewno ktos nie zaplacil, sprawdz:  1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod odjechal  ID: 1 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod przyjechal  ID: 1 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod przyjechal  ID: 2 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod przyjechal  ID: 3 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Na pewno ktos nie zaplacil, sprawdz:  1 2</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Na pewno ktos nie zaplacil, sprawdz:  3</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod odjechal  ID: 3 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod odjechal  ID: 2 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod odjechal  ID: 1 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Samochod przyjechal  ID: 1 Strefa: 1</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Zakupiono bilet Numer rej: aa Rodzaj: Normalny Od: 2017-06-14 17:18:01.061 Do: 2017-06-14 17:19:01.061</msg>
+        <strefa>1</strefa>
+    </msg>
+    <msg>
+        <msg>Na pewno ktos nie zaplacil, sprawdz:  1</msg>
+        <strefa>1</strefa>
+    </msg>
+</messages>
